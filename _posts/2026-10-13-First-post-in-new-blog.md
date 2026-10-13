@@ -1,6 +1,7 @@
 ---
 title: First post in new blog
 layout: post
-tags: general
+categories: general
+tags: admin
 ---
 This is fun
